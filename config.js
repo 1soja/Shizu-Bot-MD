@@ -8,16 +8,16 @@ import axios from 'axios'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['923470027813', '👑 Ahmad Ali - Creador 👑', true],
-  ['19294515952']
+  ['917306004019', '👑 LEO BOY - Creador 👑', true],
+  ['917306004019']
 ] 
-global.suittag = ['923470027813'] 
-global.prems = ['923470027813','19294515952'] 
+global.suittag = ['917306004019'] 
+global.prems = ['917306004019','917306004019'] 
 
-global.packname = 'x_Ikratos_x'
-global.author = '⍟Ahmad » Ali⍟'
-global.wm = '⍟Ahmad » Ali⍟ V5.3'
-global.igfg = '⍟Ahmad » Ali⍟'
+global.packname = '⸙⃝̸̸̸̸̸𝑳𝑬𝑶̸˵𝑩𝑶̸𝒀̅˵𝑬̽𝑭̽𝑿̽͢'
+global.author = '⍟⸙𝑳𝑬𝑶̸˵𝑩𝑶̸𝒀̅⍟'
+global.wm = '⍟⸙𝑳𝑬𝑶̸˵𝑩𝑶̸𝒀̅⍟ V5.3'
+global.igfg = '⍟⸙𝑳𝑬𝑶̸˵𝑩𝑶̸𝒀̅⍟'
 global.wait = '*[❗] Wait, Processing...*'
 
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
